@@ -24,7 +24,7 @@ This repository contains computational research on the **Goldbach Conjecture** a
 
 ## Setup Instructions
 ### 1️ **Clone the Repository**
-```bash
+```bash`
 git clone https://github.com/YOUR-USERNAME/Goldbach-Conjecture-Analysis.git
 cd Goldbach-Conjecture-Analysis
 

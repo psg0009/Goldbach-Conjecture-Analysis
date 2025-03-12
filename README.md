@@ -69,7 +69,7 @@ pip install -r requirements.txt
 - Some *small gaps* indicate prime clustering, suggesting refinements to existing models.  
 
 📌 *Visualization of Prime Gaps vs. Cramér’s Bound:*  
-![Prime Gaps vs. Cramér’s Bound](images/prime_gaps_vs_cramer.png)
+![Prime Gaps vs. Cramér’s Bound]<img width="1173" alt="Screenshot 2025-03-12 at 5 22 05 PM" src="https://github.com/user-attachments/assets/5bc5dd7e-25aa-49a1-9c59-8867c4959e2b" />
 
 ---
 
@@ -79,7 +79,8 @@ pip install -r requirements.txt
 - Computational results show that even at these large scales, *every even number can be expressed as the sum of two primes*.  
 
 📌 *Graph of Even Numbers as Sum of Two Primes:*  
-![Goldbach Verification](images/goldbach_verification.png)
+![Goldbach Verification]<img width="1557" alt="Screenshot 2025-03-12 at 5 22 39 PM" src="https://github.com/user-attachments/assets/4ace40cd-3aad-4029-9955-8aed39a13263" />
+
 
 ---
 
@@ -90,15 +91,15 @@ pip install -r requirements.txt
 - Visualization confirms the trend of *gradual increase in prime gaps* at larger scales.
 
 📌 *Histogram of Prime Gaps Distribution:*  
-![Prime Gap Distribution](images/prime_gap_distribution.png)
+![Prime Gap Distribution]<img width="1764" alt="Screenshot 2025-03-12 at 5 23 18 PM" src="https://github.com/user-attachments/assets/e7cc30b4-f9c4-4f10-8050-25976681c861" />
+
 
 ---
 
 ## 📌 Research Insights
 - *Cramér’s conjecture* holds for large prime numbers within expected bounds.  
 - *Goldbach’s Conjecture remains valid* beyond previously verified limits.  
-- Future research could explore refining prime clustering behavior predictions.  
-
+- Future research could explore refining prime clustering behavior predictions and verifying for 10^19.
 ---
 
 ## 📜 Requirements
@@ -117,9 +118,6 @@ bash
 pip install -r requirements.txt
 
 
----
 
-## 📧 Contact
-For queries, reach out to *Parth Gosar*.
 
 

@@ -15,11 +15,7 @@ This repository contains computational research validating Goldbach’s Conjectu
  ┣ 📂 script/ → Python scripts for computational analysis.  
  ┃ ┣ 🐍 prime_gap_analysis.py → Computes prime gaps, applies Cramér's conjecture, detects anomalies.  
  ┃ ┣ 🐍 goldbach_verification.py → Analyzes prime gaps distribution, compares with expected values.  
- ┃ ┣ 🐍 interactive_prime_gaps.py → Uses Plotly for interactive visualization of prime gaps.  
- ┃  
- ┣ 📂 docs/ → Research paper and findings.  
- ┃ ┣ 📄 Goldbach_Conjecture_Paper.pdf  
- ┃ ┣ 📄 Goldbach_Conjecture_Paper.docx  
+ ┃ ┣ 🐍 interactive_prime_gaps.py → Uses Plotly for interactive visualization of prime gaps.   
  ┃
  ┃  
  ┣ 📄 README.md → Documentation for the project.  
@@ -89,7 +85,6 @@ pip install -r requirements.txt
 <img width="1129" alt="Screenshot 2025-03-12 at 5 44 59 PM" src="https://github.com/user-attachments/assets/071f8784-c3fc-44d8-bdaa-ca5626b2d354" />
 
 
-
 ---
 
 ## Research Insights
@@ -99,18 +94,6 @@ pip install -r requirements.txt
 ---
 
 ## 📜 Requirements
-The following libraries are needed to run the analysis:
-plaintext
-numpy
-pandas
-matplotlib
-scipy
-plotly
-sympy
-
-
-Install them using:
-bash
 pip install -r requirements.txt
 
 
